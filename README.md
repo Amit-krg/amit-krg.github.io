@@ -1,5 +1,5 @@
 #Amit's Website
 
-Template Courtesy: Freelance Bootstrap
+Template Courtesy: # [Start Bootstrap](http://startbootstrap.com/) - [Freelancer](http://startbootstrap.com/template-overviews/freelancer/)
 
-# [Start Bootstrap](http://startbootstrap.com/) - [Freelancer](http://startbootstrap.com/template-overviews/freelancer/)
+
