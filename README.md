@@ -1,4 +1,5 @@
-Amit's Website
+#Amit's Website
 
-Created website for generic purpose.
+Template Courtesy: Freelance Bootstrap
 
+# [Start Bootstrap](http://startbootstrap.com/) - [Freelancer](http://startbootstrap.com/template-overviews/freelancer/)
